@@ -1,0 +1,15 @@
+C:\Az 400\mod8 pack\OctocatApp\bin\Release\net6.0\OctocatApp.exe
+C:\Az 400\mod8 pack\OctocatApp\bin\Release\net6.0\OctocatApp.deps.json
+C:\Az 400\mod8 pack\OctocatApp\bin\Release\net6.0\OctocatApp.runtimeconfig.json
+C:\Az 400\mod8 pack\OctocatApp\bin\Release\net6.0\OctocatApp.dll
+C:\Az 400\mod8 pack\OctocatApp\bin\Release\net6.0\ref\OctocatApp.dll
+C:\Az 400\mod8 pack\OctocatApp\bin\Release\net6.0\OctocatApp.pdb
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\OctocatApp.csproj.AssemblyReference.cache
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\OctocatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\OctocatApp.AssemblyInfoInputs.cache
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\OctocatApp.AssemblyInfo.cs
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\OctocatApp.csproj.CoreCompileInputs.cache
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\OctocatApp.dll
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\ref\OctocatApp.dll
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\OctocatApp.pdb
+C:\Az 400\mod8 pack\OctocatApp\obj\Release\net6.0\OctocatApp.genruntimeconfig.cache
